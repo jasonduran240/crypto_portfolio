@@ -25,7 +25,7 @@ parameters = {
 }
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '7762e929-7d22-4ea2-b0af-6f27fe99f495',
+    'X-CMC_PRO_API_KEY': "Put your coinmarketcap API Key '
 }
 
 # Create a header
